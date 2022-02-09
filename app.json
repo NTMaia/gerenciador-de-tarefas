@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "desafio-brickup",
+    "slug": "desafio-brickup",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "desafio-brickup"
+}
