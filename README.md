@@ -1,3 +1,5 @@
 # Imagens do Projeto
 
-<p> Tag P </p>
+<p>
+  <img width="460" height="300" src="imagens/readme/pagina-principal.jpg" >
+</p>
